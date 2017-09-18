@@ -1,0 +1,109 @@
+body,html {
+    margin: 0 5px;
+    font-family: Verdana,sans-serif;
+}
+h1 {
+    font-size: 1.4em;
+    color: #008000;
+}
+
+form #submitbutton {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	font-weight: bold;
+}
+
+form #input {
+	margin-top: 50px;
+}
+
+#content {
+	color: #333;
+	width: 1080px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#image-hub {
+	width: 300px;
+	height: 300px;
+}
+
+#link_text {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.right_button {
+	text-align: right;
+	padding-right: 20px;
+}
+
+#click_link {
+	font-family: arial, verdana;
+	font-size: 12px;
+	border:1px #000000 solid;
+	color: #ff0000;
+	background-color: lightblue;
+	padding: 6px;
+	margin: 3px;
+	text-decoration: none;
+}
+
+#row-head {
+	background-color: lightblue;
+	color: black;
+	font-weight: bold;
+}
+
+#table-main {
+	border: 1px solid #f9f9f9;
+	border-collapse: collapse;
+	width: 1080px;
+	margin: 0px auto;
+	text-align: left;
+	font-family: arial, verdana;
+}
+
+#button_back {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	font-weight: bold;
+}
+
+#button_view {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+	font-weight: bold;
+}
+
+#back_button_bottom {
+	margin-top: 20px;
+}
+
+#home_link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#stars-element input {
+	margin-top: 10px;
+}

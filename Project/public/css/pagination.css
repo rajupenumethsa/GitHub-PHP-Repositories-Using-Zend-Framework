@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+
+.dataTables_info {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.paginate_button {
+	font-family: arial, verdana;
+	font-size: 12px;
+	border:1px #000000 solid;
+	color: #fff;
+	background-color: black;
+	padding: 6px;
+	margin: 3px;
+	text-decoration: none;
+}
+
+.paginate_button:hover, .current {
+	font-family: arial, verdana;
+	font-size: 12px;
+	border:1px #000000 solid;
+	color: red;
+	background-color: black;
+	padding: 6px;
+	margin: 3px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.dataTables_filter input {
+	margin-left: 10px;
+}
+
+h1 {
+	margin-top: 0px;
+}
+
+#home_link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

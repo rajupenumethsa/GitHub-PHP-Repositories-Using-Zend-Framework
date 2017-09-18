@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+.errors li {
+	list-style-type: none;
+	margin-top: 5px;
+	color: red;
+}
+
+#submit-element, #stars-element {
+	margin-left: 0px;
+}
