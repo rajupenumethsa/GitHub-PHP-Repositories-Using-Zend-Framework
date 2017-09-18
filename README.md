@@ -28,7 +28,7 @@ HTML5, CSS and DataTable JQuery Plugin.
 6. Enable mod_rewrite in Apache.
 7. Go to Project\docs\Readme.txt and follow the steps to add a virtualhost.
 8. Log into PhpMyAdmin using your username and password. (username"root" and password "" if wampserver is newly installed).
-9. Find the SQL file (Query.sql) in the project folder. Import the sql file and run the queries.
+9. Find the SQL file (query.sql) in the Project\docs folder. Import the sql file and run the file.
 10. Find "application.ini" file under application\configs folder and update your database settings.
 11. Restart All Services in Wampserver.
 12. Enter http://github.localhost/ in your browser window.
