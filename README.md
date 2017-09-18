@@ -30,7 +30,8 @@ HTML5, CSS and DataTable JQuery Plugin.
 8. Log into PhpMyAdmin using your username and password. (username"root" and password "" if wampserver is newly installed).
 9. Find the SQL file (Query.sql) in the project folder. Import the sql file and run the queries.
 10. Find "application.ini" file under application\configs folder and update your database settings.
-11. Enter http://github.localhost/ in your browser window.
+11. Restart All Services in Wampserver.
+12. Enter http://github.localhost/ in your browser window.
 
 # References
 https://developer.github.com/v3/
